@@ -1,6 +1,6 @@
 
 
-### My Focus Areas
+### Current focus & Technical stack
 
 
 ---
