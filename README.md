@@ -1,6 +1,10 @@
 
 
-### Current focus & Technical stack
+### Current focus
+
+
+
+### Technical stack
 
 
 ---
