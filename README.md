@@ -1,19 +1,16 @@
+Master of Science in Engineering (MSc Eng) in Computer Science with a specialization in Data Engineering and Information Systems from the Silesian University of Technology.
 
+### Academic research
+**Master's thesis:** Research analysis of the possibilities of using document databases in data warehouses. Modern data warehouse architectures were researched by comparing relational (PostgreSQL) and NoSQL (MongoDB) databases in OLAP scenarios. A containerized environment was built to benchmark ETL processes, storage, and OLAP cube materialization using the Star Schema Benchmark (SSB). Furthermore, a novel hybrid model and a pre-filtration method were designed and tested to optimize NoSQL performance. These strategies effectively bypassed typical NoSQL bottlenecks, proving that custom modeling can offer a highly efficient, scalable alternative to traditional baselines.
 
-<h3> Current focus & Learning path </h3>
+### Current focus
+▹ **Backend development (C# / .NET / Java):** My core strength is C# and the .NET ecosystem. I focus on writing clean, maintainable code. Currently, my main goal is to bridge the gap between basic applications and enterprise-level software by actively studying and implementing Clean Architecture and Domain-Driven Design and security best practices.
 
-* **Backend development (C# / .NET / Java):** my core strength is C# and the .NET ecosystem. I focus on writing clean, maintainable code. Currently, my main goal is to bridge the gap between basic applications and enterprise-level software by actively studying and implementing Clean Architecture and Domain-Driven Design and security best practices.
+▹ **Frontend expansion (Angular):** To achieve my goal of becoming a Full-Stack Developer, I am currently learning Angular from the ground up. My focus right now is on understanding component-based architecture, TypeScript, and state management so I can independently connect modern user interfaces with my .NET APIs.
 
-* **Frontend expansion (Angular):** to achieve my goal of becoming a Full-Stack Developer, I am currently learning Angular from the ground up. My focus right now is on understanding component-based architecture, TypeScript, and state management so I can independently connect modern user interfaces with my .NET APIs.
+▹ **DevOps & Cloud:** Building on my foundation in security-first software design, my goal is to expand into DevOps and Cloud. I am focused on mastering deployment automation, advanced CI/CD pipelines, and application monitoring to deliver secure, reliable software across the entire development lifecycle.
 
-
-* **Data engineering & databases:** for my Master's thesis, I researched modern Data Warehouse architectures by comparing relational (PostgreSQL) and NoSQL (MongoDB) databases in OLAP scenarios. I built a containerized environment to benchmark ETL processes, storage, and OLAP cube materialization using the Star Schema Benchmark (SSB). Beyond evaluating native schemas, I designed and tested a novel hybrid model and a pre-filtration method to optimize NoSQL performance. These strategies effectively bypassed typical NoSQL bottlenecks. Ultimately, this project provided practical insights into how foundational data structures drive the mechanics of today's Big Data platforms and ecosystems, and proved that custom modeling can offer a highly efficient, scalable alternative to traditional baselines.
-
-* **Future goal - DevOps & Cloud:** currently, I put a strong emphasis on meticulous software design and building with a security-first mindset. Building on that foundation, I plan to expand my skills into the operational side of the software lifecycle. In the near future, I aim to dive into deployment automation, setting up advanced CI/CD pipelines, and application monitoring. My ultimate goal is to continuously grow my practical knowledge in delivering secure, reliable software and understanding the complete development process.
-
-
-
-<h2>Selected projects</h2>
+### Selected projects
 <table border="0" bordercolor="transparent">
   <tr>
     <td width="50%" valign="top">
