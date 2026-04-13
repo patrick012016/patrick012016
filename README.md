@@ -26,7 +26,8 @@
         </a>
       </div>
       <br>
-      <p>A client-server application supporting interactive multiplayer quizzes. Designed with a strict focus on seamless real-time communication, it features an integrated subscription system and a comprehensive administration panel.</p>
+      <p align="center">
+        A client-server application supporting interactive multiplayer quizzes. Designed with a strict focus on seamless real-time communication, it features an integrated subscription system and a comprehensive administration panel.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
         <img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SignalR" />  
@@ -47,7 +48,8 @@
         </a>
       </div>
       <br>
-      <p>A native Android application for interactive, live quizzes (Kahoot-style). Features QR code lobby joining and secure JWT authentication. Real-time gameplay synchronization is powered by WebSockets.</p>
+      <p align="center">
+        A native Android application for interactive, live quizzes (Kahoot-style). Features QR code lobby joining and secure JWT authentication. Real-time gameplay synchronization is powered by WebSockets.</p>
       <p align="center">
         <img src="https://img.shields.io/badge/Java_11-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java 11" />
         <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
