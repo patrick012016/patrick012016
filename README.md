@@ -60,6 +60,26 @@ Master of Science in Engineering (MSc Eng) in Computer Science with a specializa
   </tr>
 
   <tr>
+<td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/patrick012016/dotnet-go-api-benchmark">.NET (JIT & AOT) vs. Go benchmark</a>
+      </h3>
+      <div align="center">
+      </div>
+      <br>
+      <p align="center">
+        A data-driven benchmark of .NET (JIT & AOT) and  Go using an isolated REPR architecture. Evaluating cold start times, memory efficiency, and high-concurrency execution for modern serverless and edge architectures.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/.NET_10_JIT-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET JIT" />
+        <img src="https://img.shields.io/badge/.NET_10_AOT-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET AOT" />
+        <img src="https://img.shields.io/badge/Go_1.26-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+        <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/patrick012016/dotnet-go-api-benchmark">💻 Source Code</a>
+      </div>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">
         <a href="https://github.com/patrick012016/food-ordering-web-app">Food Ordering CMS</a>
