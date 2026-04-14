@@ -26,7 +26,7 @@ Master of Science in Engineering (MSc Eng) in Computer Science with a specializa
       <p align="center">
         A client-server application supporting interactive multiplayer quizzes. Designed with a strict focus on seamless real-time communication, it features an integrated subscription system and a comprehensive administration panel.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
+        <img src="https://img.shields.io/badge/ASP.NET%20Core%206.0-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="ASP.NET Core" />
         <img src="https://img.shields.io/badge/SignalR-0078D4?style=flat-square&logo=microsoft&logoColor=white" alt="SignalR" />  
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
@@ -57,5 +57,30 @@ Master of Science in Engineering (MSc Eng) in Computer Science with a specializa
         <a href="https://github.com/patrick012016/college-quiz-quizazu-mobile-app">💻 Source Code</a>
       </div>
     </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/patrick012016/food-ordering-web-app">Food Ordering CMS</a>
+      </h3>
+      <div align="center">
+        <a href="https://github.com/patrick012016/food-ordering-web-app">
+          <img src="https://github.com/user-attachments/assets/8171946c-0372-448e-b02d-9518887cde9b" width="22%" alt="Food Ordering CMS logo">
+        </a>
+      </div>
+      <br>
+      <p align="center">
+        Custom CMS web application for restaurant management and order workflows. Core logic implemented through a MVC architecture, optimizing database interactions and rendering speed.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PHP_7.4-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP 7.4" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+      </p>
+      <div align="center">
+        <a href="https://github.com/patrick012016/food-ordering-web-app">💻 Source Code</a>
+      </div>
+    </td>
+ 
   </tr>
 </table>
