@@ -68,7 +68,7 @@ Master of Science in Engineering (MSc Eng) in Computer Science with a specializa
 <div style="background: linear-gradient(135deg, #161b22, #0d1117); border-radius: 12px; padding: 30px 20px; display: flex; justify-content: center; align-items: center; gap: 30px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; box-shadow: 0 8px 24px rgba(0,0,0,0.4); max-width: 450px; margin: 0 auto; border: 1px solid #30363d;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C# Logo" style="height: 70px; filter: drop-shadow(0 0 15px rgba(104, 33, 122, 0.4));">
     &nbsp;&nbsp;&nbsp;&nbsp;<span style="font-size: 42px; font-weight: 900; color: #8b949e; text-shadow: 0 2px 10px rgba(0,0,0,0.5); font-style: italic; letter-spacing: -2px;">VS</span>&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go Logo" style="height: 80px; filter: drop-shadow(0 0 15px rgba(0, 173, 216, 0.4));">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go Logo" style="height: 85px; filter: drop-shadow(0 0 15px rgba(0, 173, 216, 0.4));">
 </div>
 
 </div>
